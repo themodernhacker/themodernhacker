@@ -8,21 +8,68 @@
 
 <p align="left"> <a href="https://twitter.com/themodernhacker" target="blank"><img src="https://img.shields.io/twitter/follow/themodernhacker?logo=twitter&style=for-the-badge" alt="themodernhacker" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+🎓 MSc Cybersecurity & Artificial Intelligence | University of Sheffield, UK  
+💻 Passionate about building secure, intelligent systems for the modern web.
 
-- 🌱 I’m currently learning **Web Development.**
+---
 
-- 👨‍💻 All of my projects are available at [https://themodernhacker.com/project.html](https://themodernhacker.com/project.html)
+### 🌱 Currently Exploring
 
-- 📝 I regularly write articles on [https://themodernhacker.com/blogs.html](https://themodernhacker.com/blogs.html)
+🚀 I'm currently diving deep into:
 
-- 💬 Ask me about **Cyber Security, Web Development & More.**
+- **Web Development** – Mastering front-end & back-end technologies to build responsive and dynamic web applications.
+- **Cybersecurity** – Enhancing my skills in:
+  - 🔐 System Security  
+  - 🛠️ Ethical Hacking  
+  - 🌐 Network Defense  
+  - 🧠 Threat Intelligence & Analysis  
 
-- 📫 How to reach me **https://themodernhacker.com/contact.html**
+🎓 I’m pursuing my **Master’s in Cybersecurity and Artificial Intelligence** at the **University of Sheffield, UK**.
 
-- 📄 Know about my experiences [https://themodernhacker.com/resume.html](https://themodernhacker.com/resume.html)
+✅ **Certifications:**
+- 🧾 **CEH (Certified Ethical Hacker)** – *Completed*  
+- 🧪 **eJPT (eLearnSecurity Junior Penetration Tester)** – *In Progress*  
+- 🔍 **PNPT (Practical Network Penetration Tester)** – *Planned*  
+- 🛡️ **CompTIA PenTest+** – *Planned*  
+- 🧠 **OSCP (Offensive Security Certified Professional)** – *Planned*
 
-- ⚡ Fun fact **Love to Travel and do Vlogging.**
+---
+
+### 💼 Projects Portfolio
+
+🔗 Explore all my projects here:  
+[**themodernhacker.com/project.html**](https://themodernhacker.com/project.html)
+
+---
+
+### ✍️ Blogs & Articles
+
+📝 I regularly write about Cybersecurity, Web Development, and other tech topics:  
+[**themodernhacker.com/blogs.html**](https://themodernhacker.com/blogs.html)
+
+---
+
+### 📄 My Resume
+
+📌 Learn more about my professional background:  
+[**themodernhacker.com/resume.html**](https://themodernhacker.com/resume.html)
+
+---
+
+### 📫 Let's Connect
+
+💬 Have a question or opportunity in mind? Get in touch:  
+[**themodernhacker.com/contact.html**](https://themodernhacker.com/contact.html)
+
+---
+
+### ⚡ Fun Fact
+
+I love to **travel** and **code** — sometimes both at the same time!
+
+---
+
+<h3 align="left">🤝 Connect with Me</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
