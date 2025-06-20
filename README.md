@@ -35,10 +35,6 @@
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3556078" style='border:none;'></iframe>
-
----
-
 ### 💼 Projects Portfolio
 
 🔗 Explore all my projects here:  
